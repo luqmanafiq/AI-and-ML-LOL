@@ -56,15 +56,8 @@ This bachelor's dissertation implements a comprehensive system for League of Leg
 - Riot API key (for player lookup)
 
 ### Setup
-1. Clone the repository
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```
-   python lol_win_prediction.py
-   ```
+1. Clone the repository/ entire code
+2. Run the application on Jupyter (Google Colab doesn't work with the League of Legends Live Client Data API because of how cloud computing environments operate.):
 
 ### Web Interface Usage
 The application provides several tabs:
@@ -85,7 +78,7 @@ The application provides several tabs:
 - Expansion to include champion-specific recommendations
 - Improved player behavior analysis
 - Enhanced visualization of game states
-- Mobile application development
+- Third-party authorization RIOT
 
 ## Acknowledgements
 - Riot Games API for match data access
