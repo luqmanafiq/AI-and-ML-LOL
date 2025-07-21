@@ -1,4 +1,5 @@
 # League of Legends Win Prediction Using Machine Learning and AI
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/3a0f5ae9-4f38-45b5-87af-788933a01cc0" />
 
 ## Project Overview
 This bachelor's dissertation implements a comprehensive system for League of Legends match analysis and win prediction using machine learning techniques. The system provides real-time coaching advice based on objective control metrics and leverages both solo queue and professional match data for training accurate prediction models.
@@ -78,9 +79,10 @@ The application provides several tabs:
 - Expansion to include champion-specific recommendations
 - Improved player behavior analysis
 - Enhanced visualization of game states
-- Third-party authorization RIOT
+- META!!
 
 ## Acknowledgements
 - Riot Games API for match data access
 - Oracle's Elixir for professional match statistics
 - League of Legends Live Client Data API for in-game analysis
+
